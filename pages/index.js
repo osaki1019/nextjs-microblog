@@ -38,7 +38,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>現在学習中の言語はC#、Reactです</p>
+        <p>(ブランチ変えました)現在学習中の言語はC#、Reactです</p>
       </section>
 
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
